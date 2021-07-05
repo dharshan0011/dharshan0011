@@ -1,11 +1,11 @@
 ## Hi! This is Dharshan 👋
 
-I am a web developer. Building solution and products is what fascinates me. Working out is my other passion. Good speeches and ideas attracts me. My deep affection lies in automation and nature.
+I am a full stack web developer. Building solution and products fascinates me. Fitness is my other passion. Good speeches and ideas attracts me. My deep affection lies in automation and nature.
 
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning product design, Angular
-- 👯 I’m looking to collaborate on full stack web projects
-- 💬 Ask me about MERN, git and other basics
+- 👨‍💻 I’m currently working on MERN stack
+- 🪡 Learning product design.
+- 👯 Looking to collaborate on full stack web projects
+- 💬 Ask me about MERN, git and other web and UI design related stuffs
 - 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshan-k-477566166/)
