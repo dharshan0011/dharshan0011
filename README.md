@@ -9,7 +9,7 @@ I am a full stack web developer. Building solution and products fascinates me. F
 - 📫 How to reach me: 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharshan-k-477566166/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dharshan0011/)
+
 [![GitHub Logo](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dharshan0011@gmail.com)
 
 
