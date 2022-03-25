@@ -1,6 +1,6 @@
 ## Hi! This is Dharshan 👋
 
-I am a full stack web developer. Building solution and products fascinates me. Fitness is my other passion. Good speeches and ideas attracts me. My deep affection lies in automation and nature.
+I am a full stack web developer aspirant. Building solution and products fascinates me. Fitness is my other passion. Good speeches and ideas attracts me. My deep affection lies in technology and nature.
 
 - 👨‍💻 I’m currently working on MERN stack
 - 🪡 Learning product design.
