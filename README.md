@@ -3,8 +3,7 @@
 I am a full stack web developer aspirant. Building solution and products fascinates me. Fitness is my other passion. Good speeches and ideas attracts me. My deep affection lies in technology and nature.
 
 - 👨‍💻 I’m currently working on MERN stack
-- 🪡 Learning product design.
-- 👯 Looking to collaborate on full stack web projects
+- 🪡 Learning React Native
 - 💬 Ask me about MERN, git and other web and UI design related stuffs
 - 📫 How to reach me: 
 
